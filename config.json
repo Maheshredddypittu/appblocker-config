@@ -1,7 +1,6 @@
 {
   "mode": "block",
   "apps": [
-    "chrome.exe",
-    "teams.exe"
+    "notepad.exe"    
   ]
 }
