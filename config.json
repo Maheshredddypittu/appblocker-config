@@ -1,6 +1,6 @@
 {
   "mode": "block",
   "apps": [
-    "notepad.exe"   
+    "notepad.exe","anydesk.exe"   
   ]
 }
