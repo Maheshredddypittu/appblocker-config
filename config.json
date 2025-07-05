@@ -1,0 +1,7 @@
+{
+  "mode": "block",
+  "apps": [
+    "chrome.exe",
+    "teams.exe"
+  ]
+}
