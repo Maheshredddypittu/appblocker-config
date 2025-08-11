@@ -1,6 +1,7 @@
 {
   "mode": "block",
   "apps": [
-    "notepad.exe","anydesk.exe" 
+    "notepad.exe","anydesk.exe","aos.svcvtt.exe",'svcvtt.exe" 
   ]
 }
+
